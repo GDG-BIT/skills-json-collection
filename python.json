@@ -1,6 +1,6 @@
 [
   {
-    "name": "vaishnavi",
+    "name": "Shashank",
     "skill": "Python",
     "resources": [
       "https://learning.edx.org/course/course-v1:HarvardX+CS50P+Python",
@@ -8,14 +8,13 @@
     ]
   }
 ]
-]
 [
   {
-    "name": "Siddhant",
-    "skill": "Python",
+    "name": "Shashank",
+    "skill": "C programming",
     "resources": [
-      "https://www.python.org/",
-      "https://www.youtube.com/watch?v=4M87qBgpafk"
+      "https://www.udemy.com/course/c-programming-for-beginners-/",
+      "https://cs50.harvard.edu/"
     ]
   }
 ]
