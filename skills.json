@@ -208,5 +208,13 @@
       "https://developer.mozilla.org/en-US/docs/Web/CSS",
       "https://web.dev/learn/css" 
      ]
-   }
+   },
+    {
+    "name": "Tejas KP",
+    "skill": "Azure",
+    "resources": [
+      "https://www.coursera.org/learn/microsoft-azure-cloud-services",
+      "https://www.youtube.com/playlist?list=PLGjZwEtPN7j-Q59JYso3L4_yoCjj2syrM"
+    ]
+  }
 ]
