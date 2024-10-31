@@ -264,5 +264,13 @@
     "https://takeyouforward.org/strivers-sde-sheet-coding-problems",
     "https://www.geeksforgeeks.org/",
   ]
-}
+},
 ]
+ {
+    "name": "Swathi J",
+    "skill": "Python",
+    "resources": [
+      "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+      "https://www.programiz.com/python-programming"
+    ]
+  }
