@@ -221,6 +221,7 @@
       "https://web.dev/learn/css" 
      ]
    },
+   
    {
     "name": "Poojitha",
     "skill": "C",
@@ -280,3 +281,13 @@
       "https://www.programiz.com/python-programming"
     ]
   }
+
+ {
+    "name": "Tejas KP",
+    "skill": "Azure",
+    "resources": [
+      "https://www.coursera.org/learn/microsoft-azure-cloud-services",
+      "https://www.youtube.com/playlist?list=PLGjZwEtPN7j-Q59JYso3L4_yoCjj2syrM"
+    ]
+  }
+]
