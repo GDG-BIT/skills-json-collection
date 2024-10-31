@@ -18,12 +18,13 @@
   },
   {
     "name": "Kartika",
-    "skill": "C++",
+    "skill": "HTML",
     "resources": [
       "https://developer.mozilla.org/en-US/docs/Web/c++",
       "https://c++.info/"
     ]
   },
+ {
   {
     "name": "harshitha",
     "skill": "Python",
@@ -210,7 +211,15 @@
     "skill": "CSS",
     "resources": [
       "https://developer.mozilla.org/en-US/docs/Web/CSS",
-      "https://web.dev/learn/css"
+      "https://web.dev/learn/css" 
+     ]
+   },
+   {
+    "name": "Poojitha",
+    "skill": "C",
+    "resources": [
+      "https://onecompiler.com/c",
+      "https://c.info/"
     ]
   },
   {
