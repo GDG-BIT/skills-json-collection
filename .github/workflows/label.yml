@@ -26,7 +26,7 @@ jobs:
                   owner: context.repo.owner,
                   repo: context.repo.repo,
                   issue_number: pr.number,
-                  labels: ['hacktoberfest-accepted'] 
+                  labels: ['hacktoberfest-accepted'] // Label to add
                 });
                 console.log(`Added label to PR #${pr.number}`);
               }
