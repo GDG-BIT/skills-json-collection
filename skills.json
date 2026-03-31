@@ -289,5 +289,12 @@
       "https://www.coursera.org/learn/microsoft-azure-cloud-services",
       "https://www.youtube.com/playlist?list=PLGjZwEtPN7j-Q59JYso3L4_yoCjj2syrM"
     ]
+  },
+{
+    "name": "Ritu Raj",
+    "skill": "Rust Programming Language",
+    "resources": [
+ " https://www.udemy.com/course/rust-programming-the-complete-guide/?couponCode=ST20MT111124B",
+      "https://www.coursera.org/specializations/rust-programming"
+    ]
   }
-]
